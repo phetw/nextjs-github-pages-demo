@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "next",
     "build": "next build && next export -o docs",
-    "start": "next start"
+    "start": "next start",
+    "test-deploy":
+      "git add . && git commit -m 'test-deploy' && git push origin master"
   },
   "keywords": [],
   "author": "",
