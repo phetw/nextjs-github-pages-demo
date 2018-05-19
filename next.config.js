@@ -1,3 +1,3 @@
 module.exports = {
-  assetPrefix: false ? "/nextjs-demo" : "",
+  assetPrefix: true ? "/nextjs-demo" : "",
 };
