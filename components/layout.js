@@ -19,8 +19,6 @@ const ContentWrapper = styled.div`
   margin: 0;
   padding: 0;
   background-color: lightgray;
-  height: 100%;
-  width: 100%;
   padding: 1rem;
 `;
 

@@ -14,7 +14,8 @@ const Title = styled.p`
 `;
 const HeaderWrapper = styled.div`
   background-color: palevioletred;
-  width: 100%;
+  display: fixed;
+  width: 100vw;
   box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
 `;
 
