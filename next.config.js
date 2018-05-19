@@ -1,4 +1,5 @@
 module.exports = {
+  assetPrefix: "/nextjs-demo",
   webpack: (config, { dev }) => {
     // Perform customizations to webpack config
     // console.log('webpack');
