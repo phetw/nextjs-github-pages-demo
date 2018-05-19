@@ -23,7 +23,7 @@ const Header = () => (
     <Link prefetch href="/" as={process.env.BACKEND_URL + "/"}>
       <Title>Home</Title>
     </Link>
-    <Link prefetch href="/about" as={process.env.BACKEND_URL + "/about"}>
+    <Link prefetch href="/about">
       <Title>About</Title>
     </Link>
     <Link prefetch href="/contact" as={process.env.BACKEND_URL + "/contact"}>
