@@ -6,5 +6,5 @@ module.exports = {
       "/contact": { page: "/contact" },
     };
   },
-  assetPrefix: "",
+  assetPrefix: "/nextjs-demo",
 };
