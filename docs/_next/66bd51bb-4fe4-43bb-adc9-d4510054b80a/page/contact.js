@@ -1,1 +1,0 @@
-module.exports=__NEXT_REGISTER_PAGE("/contact",function(){var e=webpackJsonp([3],{220:function(e,t,n){e.exports=n(221)},221:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:true});var a=n(4);var r=n.n(a);var u=n(71);t["default"]=function(){return r.a.createElement(u["a"],null,"I am contact")}}},[220]);return{page:e.default}});
