@@ -18,6 +18,7 @@ injectGlobal`
 const ContentWrapper = styled.div`
   margin: 0;
   padding: 0;
+  height: 90vh;
   background-color: lightgray;
   padding: 1rem;
 `;
