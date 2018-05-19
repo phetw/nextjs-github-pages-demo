@@ -20,7 +20,7 @@ const HeaderWrapper = styled.div`
 
 const Header = () => (
   <HeaderWrapper>
-    <Link prefetch href="/" as="/nextjs-demo">
+    <Link prefetch href="/">
       <Title>Home</Title>
     </Link>
     <Link prefetch href="/about" as="/nextjs-demo/about">
