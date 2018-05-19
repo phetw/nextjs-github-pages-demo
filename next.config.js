@@ -1,12 +1,4 @@
 module.exports = {
-  exportPathMap: function() {
-    return {
-      "/": { page: "/" },
-      "/about": { page: "/about" },
-      "/contact": { page: "/contact" },
-    };
-  },
-  assetPrefix: "/nextjs-demo",
   webpack: (config, { dev }) => {
     // Perform customizations to webpack config
     // console.log('webpack');
