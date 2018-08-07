@@ -1,10 +1,9 @@
 module.exports = {
   exportPathMap: function() {
     return {
-      "/": { page: "/" },
-      "/about": { page: "/about" },
-      "/contact": { page: "/contact" },
-    };
-  },
-  assetPrefix: "/nextjs-demo",
-};
+      '/': { page: '/' },
+      '/about': { page: '/about' },
+      '/contact': { page: '/contact' }
+    }
+  }
+}
